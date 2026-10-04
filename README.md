@@ -1,6 +1,6 @@
 # Security Toolkit
 
-A collection of Python-based security utilities — from hash cracking to network scanning and file integrity monitoring.
+A collection of Python-based security utilities: hash cracking, network scanning, password analysis and file integrity monitoring.
 
 Each tool is self-contained in its own directory and can be run independently.
 
@@ -46,4 +46,4 @@ These tools are intended for **educational purposes and authorized security test
 
 ## Author
 
-[NovaCode37](https://github.com/NovaCode37) — Security Researcher & Python Developer
+[NovaCode37](https://github.com/NovaCode37)
